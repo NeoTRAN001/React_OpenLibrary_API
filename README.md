@@ -1,1 +1,1 @@
-!()[Captura.PNG]
+![](Captura.PNG)
